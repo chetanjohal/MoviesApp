@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Team 1 - EventBrowserFinale</string>
+    <string name="title_activity_card_detail">CardDetail</string>
+</resources>
